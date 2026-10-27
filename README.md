@@ -1,44 +1,56 @@
 <div align="center">
 
-# Nyxorz
+<img src="./assets/header.svg" alt="Nyxorz — Explore. Learn. Automate. Tech Explorer, Self-Taught Programmer, Automation Enthusiast." width="100%" />
 
-**Tech Explorer · Self-Taught Programmer · Automation Enthusiast**
+<br />
 
-*Exploring technology, learning by doing, and automating what I can.*
+Exploring technology, learning by doing, and making everyday tasks a little simpler.
 
-Curious about Python, automation, and web technologies.  
-Experimenting with ideas, building useful tools, and improving one step at a time.
-
-[![GitHub](https://img.shields.io/badge/GitHub-nyxorz-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/nyxorz)
-![Learning](https://img.shields.io/badge/Status-Always_Learning-1f6feb?style=flat-square&logo=bookstack&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-nyxorz-15253A?style=flat-square&logo=github&logoColor=white)](https://github.com/nyxorz)
+![Learning](https://img.shields.io/badge/Status-Always%20Learning-15253A?style=flat-square&logoColor=93C5FD)
 
 </div>
 
+### 01 / About
+
+I'm **Nyxorz**, a self-taught programming learner who enjoys exploring how technology works. I experiment with code, learn through small projects, and look for practical ways to automate repetitive tasks.
+
+### 02 / What I'm exploring
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>01 · Explore</strong><br />
+      <sub>Technology, tools, and new ideas</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>02 · Learn</strong><br />
+      <sub>Python and web technologies</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>03 · Automate</strong><br />
+      <sub>Small workflows and repetitive tasks</sub>
+    </td>
+    <td valign="top">
+      <strong>04 · Build</strong><br />
+      <sub>CLI tools and hands-on experiments</sub>
+    </td>
+  </tr>
+</table>
+
+### 03 / Current interests
+
+`Python` · `Automation` · `Web Technologies` · `CLI Tools`
+
+### 04 / Mindset
+
+> **Build to learn. Learn to build.**  
+> Small steps, steady progress, and plenty of curiosity.
+
 ---
 
-### ✦ About me
-
-I'm a self-taught programming learner who enjoys exploring technology and experimenting with automation. I learn through hands-on practice, small projects, and figuring things out as I go.
-
-### ⌘ Currently exploring
-
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=79c0ff)
-![Automation](https://img.shields.io/badge/Automation-161b22?style=flat-square&logo=githubactions&logoColor=79c0ff)
-![Web](https://img.shields.io/badge/Web_Technologies-161b22?style=flat-square&logo=html5&logoColor=79c0ff)
-![CLI](https://img.shields.io/badge/CLI_Tools-161b22?style=flat-square&logo=gnubash&logoColor=79c0ff)
-
-### ◈ My GitHub journey
-
 <div align="center">
-
-![GitHub contribution activity](https://ghchart.rshah.org/58a6ff/nyxorz)
-
-<sub>Learning, experimenting, and improving along the way.</sub>
-
-</div>
-
----
-
-<div align="center">
-  <sub>Stay curious. Keep learning. Keep building.</sub>
+  <sub>Stay curious · Keep learning · Keep building</sub>
 </div>
