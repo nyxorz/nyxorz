@@ -1,16 +1,16 @@
 <div align="center">
 
-# nyx.
+# Nyxorz
 
-**Coding Enthusiast · Learning to Code**
+**Tech Explorer · Self-Taught Programmer · Automation Enthusiast**
 
-*Learning to code, one project at a time.*
+*Exploring technology, learning by doing, and automating what I can.*
 
 Curious about Python, automation, and web technologies.  
-Exploring ideas, experimenting with code, and learning through practice.
+Experimenting with ideas, building useful tools, and improving one step at a time.
 
 [![GitHub](https://img.shields.io/badge/GitHub-nyxorz-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/nyxorz)
-![Learning](https://img.shields.io/badge/Status-Learning_in_Progress-1f6feb?style=flat-square&logo=bookstack&logoColor=white)
+![Learning](https://img.shields.io/badge/Status-Always_Learning-1f6feb?style=flat-square&logo=bookstack&logoColor=white)
 
 </div>
 
@@ -18,7 +18,7 @@ Exploring ideas, experimenting with code, and learning through practice.
 
 ### ✦ About me
 
-I'm learning programming by trying things out, building small tools, and improving them along the way. I enjoy exploring practical solutions and understanding how technology works.
+I'm a self-taught programming learner who enjoys exploring technology and experimenting with automation. I learn through hands-on practice, small projects, and figuring things out as I go.
 
 ### ⌘ Currently exploring
 
