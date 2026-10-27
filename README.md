@@ -1,33 +1,31 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Nyxorz — Explore. Learn. Automate. Tech Explorer, Self-Taught Programmer, Automation Enthusiast." width="100%" />
+<img src="./assets/header.svg" alt="Nyxorz. Explore. Learn. Automate. Tech Explorer, Self-Taught Programmer, Automation Enthusiast." width="760" />
 
 <br />
 
-Exploring technology, learning by doing, and building useful things along the way.
-
-[![GitHub](https://img.shields.io/badge/GitHub-nyxorz-15253A?style=flat-square&logo=github&logoColor=white)](https://github.com/nyxorz)
-![Learning](https://img.shields.io/badge/Status-Always%20Learning-15253A?style=flat-square&logoColor=93C5FD)
+[![GitHub: nyxorz](https://img.shields.io/badge/GitHub-nyxorz-15253A?style=flat-square&logo=github&logoColor=93C5FD)](https://github.com/nyxorz)
+![Always learning](https://img.shields.io/badge/Status-Always_Learning-15253A?style=flat-square&logoColor=93C5FD)
 
 </div>
 
 ### 01 / About
 
-I'm **Nyxorz**, a self-taught programming learner who enjoys exploring how technology works. I learn through hands-on experiments, small projects, and practical automation.
+I'm **Nyxorz**, a self-taught programming learner exploring technology through code, small experiments, and practical automation.
 
 ### 02 / What I'm exploring
 
 <div align="center">
-  <img src="./assets/exploring.svg" alt="Four interests: Explore — Technology and ideas; Learn — Python and web; Automate — Useful workflows; Build — CLI experiments." width="100%" />
+  <img src="./assets/exploring.svg" alt="Explore technology and ideas; learn Python and web; automate useful workflows; build CLI experiments." width="600" />
 </div>
 
 ### 03 / Mindset
 
 > **Build to learn. Learn to build.**  
-> Small steps, steady progress, and plenty of curiosity.
+> Small steps, steady progress.
 
 ---
 
 <div align="center">
-  <sub>Stay curious · Keep learning · Keep building</sub>
+  <sub>Stay curious · Keep building</sub>
 </div>
