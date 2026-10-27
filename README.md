@@ -2,34 +2,43 @@
 
 # nyx.
 
-**Developer · Automation · Web**
+**Coding Enthusiast · Learning to Code**
 
-Building practical tools, exploring modern web technologies, and simplifying everyday workflows.
+*Learning to code, one project at a time.*
+
+Curious about Python, automation, and web technologies.  
+Exploring ideas, experimenting with code, and learning through practice.
 
 [![GitHub](https://img.shields.io/badge/GitHub-nyxorz-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/nyxorz)
+![Learning](https://img.shields.io/badge/Status-Learning_in_Progress-1f6feb?style=flat-square&logo=bookstack&logoColor=white)
 
 </div>
 
 ---
 
-### About
+### ✦ About me
 
-I'm interested in software development, automation, command-line utilities, and data workflows. I enjoy learning by building useful projects and refining how things work.
+I'm learning programming by trying things out, building small tools, and improving them along the way. I enjoy exploring practical solutions and understanding how technology works.
 
-### Areas of interest
+### ⌘ Currently exploring
 
-`Python` · `Automation` · `Web Development` · `CLI Tools` · `Data Workflows`
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=79c0ff)
+![Automation](https://img.shields.io/badge/Automation-161b22?style=flat-square&logo=githubactions&logoColor=79c0ff)
+![Web](https://img.shields.io/badge/Web_Technologies-161b22?style=flat-square&logo=html5&logoColor=79c0ff)
+![CLI](https://img.shields.io/badge/CLI_Tools-161b22?style=flat-square&logo=gnubash&logoColor=79c0ff)
 
-### Activity
+### ◈ My GitHub journey
 
 <div align="center">
 
-![GitHub contribution graph](https://ghchart.rshah.org/2ea043/nyxorz)
+![GitHub contribution activity](https://ghchart.rshah.org/58a6ff/nyxorz)
+
+<sub>Learning, experimenting, and improving along the way.</sub>
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Always learning. Always building.</sub>
+  <sub>Stay curious. Keep learning. Keep building.</sub>
 </div>
