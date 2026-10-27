@@ -1,26 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="716" viewBox="0 0 600 716" role="img" aria-labelledby="title desc"><title id="title">What I am exploring</title><desc id="desc">Explore technology and ideas; learn Python and web; automate useful workflows; build CLI experiments.</desc><rect width="600" height="716" rx="18" fill="#0B1018"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="370" viewBox="0 0 600 370" role="img" aria-labelledby="title desc"><title id="title">What I am exploring</title><desc id="desc">Explore technology and ideas; learn Python and web; automate useful workflows; build CLI experiments.</desc><rect width="600" height="370" rx="18" fill="#0B1018"/>
 <g transform="translate(16 16)">
- <rect width="568" height="163" rx="15" fill="#151F2D" stroke="#263244" stroke-width="2"/>
- <g transform="translate(0 0)" fill="none" stroke="#93C5FD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="53" cy="54" r="15"/><path d="m53 42 7 19-7-4-7 4z"/></g>
- <text x="530" y="47" text-anchor="end" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="18">01</text>
+ <rect width="278" height="163" rx="15" fill="#151F2D" stroke="#263244" stroke-width="2"/>
+ <g fill="none" stroke="#93C5FD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="53" cy="54" r="15"/><path d="m53 42 7 19-7-4-7 4z"/></g>
+ <text x="240" y="47" text-anchor="end" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="18">01</text>
  <text x="38" y="108" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700">Explore</text>
  <text x="38" y="139" fill="#CBD5E1" font-family="Arial,Helvetica,sans-serif" font-size="22">Technology &amp; ideas</text></g>
-<g transform="translate(16 191)">
- <rect width="568" height="163" rx="15" fill="#151F2D" stroke="#263244" stroke-width="2"/>
- <g transform="translate(0 0)" fill="none" stroke="#93C5FD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M39 43q9-5 14 1 5-6 14-1v22q-9-5-14 1-5-6-14-1z"/><path d="M53 44v22"/></g>
- <text x="530" y="47" text-anchor="end" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="18">02</text>
+<g transform="translate(306 16)">
+ <rect width="278" height="163" rx="15" fill="#151F2D" stroke="#263244" stroke-width="2"/>
+ <g fill="none" stroke="#93C5FD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M39 43q9-5 14 1 5-6 14-1v22q-9-5-14 1-5-6-14-1z"/><path d="M53 44v22"/></g>
+ <text x="240" y="47" text-anchor="end" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="18">02</text>
  <text x="38" y="108" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700">Learn</text>
  <text x="38" y="139" fill="#CBD5E1" font-family="Arial,Helvetica,sans-serif" font-size="22">Python &amp; web</text></g>
-<g transform="translate(16 366)">
- <rect width="568" height="163" rx="15" fill="#151F2D" stroke="#263244" stroke-width="2"/>
- <g transform="translate(0 0)" fill="none" stroke="#93C5FD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="40" y="45" width="11" height="11" rx="2"/><rect x="58" y="58" width="11" height="11" rx="2"/><path d="M51 50h10v8m-3-3 3 3 3-3"/></g>
- <text x="530" y="47" text-anchor="end" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="18">03</text>
+<g transform="translate(16 191)">
+ <rect width="278" height="163" rx="15" fill="#151F2D" stroke="#263244" stroke-width="2"/>
+ <g fill="none" stroke="#93C5FD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="40" y="45" width="11" height="11" rx="2"/><rect x="58" y="58" width="11" height="11" rx="2"/><path d="M51 50h10v8m-3-3 3 3 3-3"/></g>
+ <text x="240" y="47" text-anchor="end" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="18">03</text>
  <text x="38" y="108" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700">Automate</text>
  <text x="38" y="139" fill="#CBD5E1" font-family="Arial,Helvetica,sans-serif" font-size="22">Useful workflows</text></g>
-<g transform="translate(16 541)">
- <rect width="568" height="163" rx="15" fill="#151F2D" stroke="#263244" stroke-width="2"/>
- <g transform="translate(0 0)" fill="none" stroke="#93C5FD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="38" y="41" width="31" height="28" rx="4"/><path d="m45 49 6 6-6 6m11 0h7"/></g>
- <text x="530" y="47" text-anchor="end" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="18">04</text>
+<g transform="translate(306 191)">
+ <rect width="278" height="163" rx="15" fill="#151F2D" stroke="#263244" stroke-width="2"/>
+ <g fill="none" stroke="#93C5FD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="38" y="41" width="31" height="28" rx="4"/><path d="m45 49 6 6-6 6m11 0h7"/></g>
+ <text x="240" y="47" text-anchor="end" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="18">04</text>
  <text x="38" y="108" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700">Build</text>
  <text x="38" y="139" fill="#CBD5E1" font-family="Arial,Helvetica,sans-serif" font-size="22">CLI experiments</text></g>
 </svg>

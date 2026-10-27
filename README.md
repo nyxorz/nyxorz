@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Nyxorz. Explore. Learn. Automate. Tech Explorer, Self-Taught Programmer, Automation Enthusiast." width="760" />
+<img src="./assets/header.svg" alt="Nyxorz. Explore. Learn. Automate. Build. Tech Explorer, Self-Taught Programmer, Automation Enthusiast." width="760" />
 
 <br />
 
