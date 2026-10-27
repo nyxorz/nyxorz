@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+  <title id="title">Nyxorz — Explore. Learn. Automate.</title>
+  <desc id="desc">Midnight blue profile header with soft blue accent and three learning identities.</desc>
+  <rect width="1000" height="300" rx="20" fill="#0B1018"/>
+  <rect x="1" y="1" width="998" height="298" rx="19" fill="none" stroke="#263244" stroke-width="2"/>
+  <rect x="48" y="47" width="35" height="4" rx="2" fill="#93C5FD"/>
+  <text x="98" y="53" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="3">PERSONAL SPACE / 001</text>
+  <text x="48" y="151" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="74" font-weight="700" letter-spacing="-3">Nyxorz<tspan fill="#93C5FD">.</tspan></text>
+  <text x="50" y="196" fill="#93C5FD" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="500">Explore. Learn. Automate.</text>
+  <line x1="50" y1="224" x2="950" y2="224" stroke="#263244"/>
+  <text x="50" y="256" fill="#CBD5E1" font-family="Arial,Helvetica,sans-serif" font-size="17">Tech Explorer</text>
+  <circle cx="203" cy="250" r="3" fill="#64748B"/>
+  <text x="222" y="256" fill="#CBD5E1" font-family="Arial,Helvetica,sans-serif" font-size="17">Self-Taught Programmer</text>
+  <circle cx="459" cy="250" r="3" fill="#64748B"/>
+  <text x="479" y="256" fill="#CBD5E1" font-family="Arial,Helvetica,sans-serif" font-size="17">Automation Enthusiast</text>
+  <rect x="842" y="45" width="108" height="30" rx="15" fill="#15253A" stroke="#315074"/>
+  <circle cx="858" cy="60" r="4" fill="#93C5FD"/>
+  <text x="872" y="65" fill="#BFDBFE" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="600">LEARNING</text>
+</svg>
